@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Pedro!;" />
 </h1>
 
-![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/github-contribution-grid-snake-dark.svg)
+(https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/github-contribution-grid-snake-dark.svg)
 
 ### Programming Languages:
 
