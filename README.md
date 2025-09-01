@@ -21,7 +21,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-4479A1.svg?style=flat-square&logo=Docker&logoColor=white)
 
 ### Frameworks, Environments, Tools & Libraries:
 
@@ -30,6 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-4479A1.svg?style=flat-square&logo=Docker&logoColor=white)
 
 ### Databases:
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
