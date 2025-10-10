@@ -32,7 +32,6 @@
 ![DOCKER](https://img.shields.io/badge/Docker-4479A1.svg?style=flat-square&logo=Docker&logoColor=white)
 
 ### Databases:
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/nosql-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
