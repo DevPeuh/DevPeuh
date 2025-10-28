@@ -38,14 +38,3 @@
 ![NoSQL](https://img.shields.io/badge/nosql-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br/>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</div>
