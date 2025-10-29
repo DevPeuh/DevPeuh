@@ -22,6 +22,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Frameworks, Environments, Tools & Libraries:
+
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=Flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
