@@ -14,7 +14,7 @@
 ---
 
 ### Programming Languages:
-<p align="center">   
+<p align="start">   
   <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    
 </p>
 
