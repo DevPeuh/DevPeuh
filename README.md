@@ -14,8 +14,13 @@
 ---
 
 ### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" /><br/>    
 </p>
 
 ### Frameworks, Environments, Tools & Libraries:
