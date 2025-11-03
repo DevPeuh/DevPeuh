@@ -25,7 +25,7 @@
 
 ### Databases:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,nosql,postgres,mongodb" /><br/>    
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" /><br/>    
 </p>
 
 <picture>
