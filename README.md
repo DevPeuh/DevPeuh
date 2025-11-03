@@ -14,10 +14,7 @@
 ---
 
 ### Programming Languages:
-<p align="center">
-  <h3>Main Skills</h3>    
-    <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    
-</p>
+<p align="center">   <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    </p>
 
 ### Frameworks, Environments, Tools & Libraries:
 
