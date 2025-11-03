@@ -14,7 +14,9 @@
 ---
 
 ### Programming Languages:
-<p align="center">   <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    </p>
+<p align="center">   
+  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" /><br/>    
+</p>
 
 ### Frameworks, Environments, Tools & Libraries:
 
