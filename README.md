@@ -20,7 +20,7 @@
 
 ### Frameworks, Environments, Tools & Libraries:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,json" /><br/>    
+  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,api,restapi" /><br/>    
 </p>
 
 ### Databases:
