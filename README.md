@@ -24,10 +24,10 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=Flask&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-4479A1.svg?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-4479A1.svg?style=flat-square&logo=Docker&logoColor=white)
 
 ### Databases:
 
