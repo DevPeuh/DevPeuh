@@ -37,6 +37,11 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
+<p align="center">
+  <h3>Main Skills</h3>    
+    <img src="https://skillicons.dev/icons?i=go,python,js,php,java,c,r,django,nodejs,react,next,angular,vue,nuxt,spring,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn,git,github,gitlab,grafana,prometheus,rabbitmq,pytorch,kafka,ai,graphql,flask,fastapi,opencv,regex,tensorflow,sklearn" /><br/>    
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph.svg">
