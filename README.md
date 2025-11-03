@@ -20,16 +20,13 @@
 
 ### Frameworks, Environments, Tools & Libraries:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,api,restapi" /><br/>    
+  <img src="https://skillicons.dev/icons?i=django,flask,docker,git,github,postman,ai,notion" /><br/>    
 </p>
 
 ### Databases:
-
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/nosql-FF3621.svg?style=flat-square&logo=Databricks&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+<p align="start">   
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,nosql,postgres,mongodb" /><br/>    
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevPeuh/DevPeuh/output/pacman-contribution-graph-dark.svg">
