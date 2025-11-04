@@ -1,4 +1,12 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Finance%20%7C%20AI%20%7C%20Algorithmic%20Trading&descAlignY=52&descSize=18" width="100%"/>
+
+## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
+
+![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
+
+</div>
 ---
 <img align="right" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="370"/>
 
