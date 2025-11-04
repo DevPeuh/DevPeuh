@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pedro+Henrique+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
 
 ---
 <img align="right" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="370"/>
