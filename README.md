@@ -12,7 +12,7 @@
 - I am working on personal and freelancer's projects to improve my skills
 - Currently learning Python with a focus on the backend but always turning to the fullstack
 - Passionate about technology, logic and learning new things
-- Backend Developer ⇒ FullStack Developer  
+- Backend Developer ⇾**** FullStack Developer  
 
 ---
 
