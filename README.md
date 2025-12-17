@@ -15,7 +15,6 @@
 - Backend Developer ⇾ FullStack Developer  
 
 ---
-
 ### Programming Languages:
 <p align="start">   
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" /><br/>    
