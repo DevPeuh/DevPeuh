@@ -6,8 +6,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="370"/>
-
+<img align="right" src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="370"/><br>
 
 ### 👨‍💻 About Me
 - I am working on personal and freelancer's projects to improve my skills
