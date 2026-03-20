@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=PEDRO%20ALMEIDA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20%7C%20FullStack&descAlignY=52&descSize=18" width="100%"/>
 
-## 🎯 BACKEND DEVELOPER | 🤖 AI FUNCTION | 👾 FULLSTACK
+## 🎯 BACKEND DEVELOPER | 🤖 AUTOMATION | 👾 FULLSTACK
 </div>
 
 
