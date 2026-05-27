@@ -13,19 +13,19 @@
 - Passionate about technology, logic and learning new things
 - Backend Developer ⇾ FullStack Developer  
 
-### Programming Languages:
+### Programming:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" /><br/>    
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,html,css,mysql" /><br/>    
 </p>
 
 ### Frameworks, Environments, Tools & Libraries:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,docker,git,github,postman,ai,notion" /><br/>    
+  <img src="https://skillicons.dev/icons?i=django,flask,react,reactnative,docker,git,github,postman,ai,notion" /><br/>    
 </p>
 
 ### Databases:
 <p align="start">   
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" /><br/>    
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br/>    
 </p>
 
 <picture>
